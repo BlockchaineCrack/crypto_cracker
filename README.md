@@ -1,4 +1,4 @@
-# cryoto_cracker
+# crypto_cracker
 It is a software that searches for forgotten wallets, Each crypto wallet has seed phrase and private key, so we created software that generates seed phrases and checks available crypto coins in them via blockchains (BTC, LTC, ETH, SOL, USDT, BNB). Daily speed 60 Millions checks! And when it finds something, it shows us the found wallets in the window.
 
 
